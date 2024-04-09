@@ -15,9 +15,6 @@
 *.controller merge=unityyamlmerge eol=lf
 
 Assets/Real Stars Skybox/**/*.cubemap filter=lfs diff=lfs merge=lfs -text
-Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
-Temp/FSTimeGet-e229e3a1d4c5a43cfaf6f9c1e385a764 filter=lfs diff=lfs merge=lfs -text
-
 
 ## git-lfs ##
 
