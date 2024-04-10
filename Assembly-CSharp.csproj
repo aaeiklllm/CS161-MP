@@ -42,8 +42,8 @@
   <ItemGroup>
      <Compile Include="Assets/Dialogue/Scripts/DialogueTrigger.cs" />
      <Compile Include="Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs" />
-     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs" />
      <Compile Include="Assets/Dialogue/Scripts/Dialogue.cs" />
+     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs" />
      <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs" />
      <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
      <Compile Include="Assets/Dialogue/Scripts/DialogueManager.cs" />
